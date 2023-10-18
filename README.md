@@ -3,6 +3,8 @@
 
 Mia Hakovirta, Daniel R. Meyer, Milla Salin, Eija Lindroos, Mari Haapanen
 
+[![DOI](https://zenodo.org/badge/706738425.svg)](https://zenodo.org/doi/10.5281/zenodo.10018885)
+
 ## Introduction
 
 Repository for the codes used for the analyses of Mia Hakovirta, Daniel R. Meyer, Milla Salin, Eija Lindroos & Mari Haapanen (2023). Joint physical custody of children in Europe: A growing phenomenon. Demographic Research, 49(18), 479–492.
