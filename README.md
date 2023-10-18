@@ -15,7 +15,7 @@ The full article can be found at: https://doi.org/10.4054/DemRes.2023.49.18
 
 ## Cite as
 
-Mia Hakovirta, Daniel R. Meyer, Milla Salin, Eija Lindroos & Mari Haapanen (2023). Code repository for: Joint physical custody of children in Europe: A growing phenomenon. Zenodo. [TÄHÄN TULEE DOI LINKKI]
+Mia Hakovirta, Daniel R. Meyer, Milla Salin, Eija Lindroos & Mari Haapanen (2023). Code repository for: Joint physical custody of children in Europe: A growing phenomenon. Zenodo. 
 
 ## License
 
