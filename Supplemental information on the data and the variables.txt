@@ -1,0 +1,34 @@
+SUPPLEMENTAL INFORMATION ON THE DATA AND THE VARIABLES
+
+DATA
+The European Income and Living Conditions Survey collects information about income, poverty, social inclusion and living conditions in the European Union. 
+In the analysis we used the cross-sectional sample from the year 2021 that included the ad-hoc subject module ‘Living arrangements and conditions of children in separated and blended families’. 
+
+ACCESSING THE DATA
+Access to the EU-SILC microdata is provided by Eurostat for scientific purposes. 
+Access to the microdata may be thus granted only for research organizations recognized as research entities.
+Researchers in research entities recognized by Eurostat may request microdata access by submitting one or more research proposals to Eurostat.
+Find more information about accessing the microdata data from the Eurostat's EU-SILC website: https://ec.europa.eu/eurostat/web/microdata/european-union-statistics-on-income-and-living-conditions
+
+SAMPLE
+Sample included 9,102 children aged 0–17 years old who were members of the sample household but had a parent living outside of the household at the time of the interview.
+Analysis included the following 17 European countries: Austria, Belgium, Cyprus, the Czech Republic, Denmark, Estonia, Greece, Spain, Finland, France, Croatia, Hungary, Italy, Lithuania, Romania, Sweden and Slovenia.
+
+
+VARIABLES
+
+Physical custody
+EU-SILC variable code: RK070 “Number of nights per month the child spends in the household (average)”
+The variable collects information on how often the child spends the night in the surveyed household on average in a typical month. In the data the variable is coded as a continuous variable with values ranging from 0–31 nights. 
+In the analysis, the variable was transformed to a categorical variable to represent the quality of the physical custody situation. The analysis includes the following categorization:
+1) sole physical custody (0 to 9 nights with the parent residing outside of the household) 
+2) unequal joint physical custody (10 to 14 nights or 16 to 20 nights with the parent residing outside of the household) 
+3) equal joint physical custody (15 nights with both parents)
+
+Age
+EU-SILC variable code: RX010 “Age at the date of the interview”
+In the analysis we included children who were aged 0–17 years old at the time of the interview. We investigated the physical custody arrangements of the following age groups: 0–5, 6–10, 11–15 and 16–17 years old.
+
+WEIGHTING
+In the paper we produced weighted descriptive statistics (and unweighted frequencies). We used the weight variable RB050 that is the personal cross-sectional weight for all household members of all ages provided by Eurostat. The weight variable can be used to make inferences about individual demographic variables in the R-file of all individuals residing in private households.
+Learn more about the construction of weights from the “Methodological guidelines” document chapter 8 available here: https://circabc.europa.eu/sd/a/f8853fb3-58b3-43ce-b4c6-a81fe68f2e50/Methodological%20guidelines%202021%20operation%20v4%2009.12.2020.pdf
