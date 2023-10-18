@@ -1,4 +1,4 @@
-# Hakovirta et al. (2023) Joint physical custody of children in Europe: A growing phenomenon
+# Hakovirta et al. (2023) Joint physical custody of children in Europe: A growing phenomenon.
 ## A code repository for the statistical analyses
 
 Mia Hakovirta, Daniel R. Meyer, Milla Salin, Eija Lindroos, Mari Haapanen
